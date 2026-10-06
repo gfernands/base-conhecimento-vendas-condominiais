@@ -1,4 +1,4 @@
-# base-conhecimento-vendas-condominiais
+# Base de Conhecimento em Vendas e Gestão Condominial
 ## Copiloto para consultas e estruturação de reuniões comerciais relacionadas à gestão condominial de condomínios clube e corporativos.
 Objetivo: Criar uma base de conhecimento para aumentar autoridade e conduzir melhor as reuniões por meio de vendas consultivas em gestão condominial e administração de condomínios, permitindo preparar reuniões, identificar dores, construir argumentos e lidar com objeções.
 
